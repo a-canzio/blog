@@ -1,2 +1,2 @@
-# blog
-This is the public repo where is temporary hosted my personal blog, which I'm trying to create.
+# AWARENESS
+This is the repository of my personal space on the internet.
